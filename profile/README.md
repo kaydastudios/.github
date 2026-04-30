@@ -1,10 +1,8 @@
 # 🚀 Kayda Studios
 
 <p align="center">
-  <strong>Your Universe Starts Here</strong>
+  <strong>Explore Beyond Limits</strong>
 </p>
-
----
 
 ## 🌌 Sobre
 
@@ -12,7 +10,6 @@ A **Kayda Studios** é uma organização focada no desenvolvimento de experiênc
 
 Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não apenas mais um servidor.
 
----
 
 ## 🎮 Plataforma
 
@@ -20,10 +17,8 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
 * **Modo inicial:** Rankup
 * **Expansões:** Survival, Skyblock, Factions, Minigames
 
----
 
 ## ⚙️ Stack Tecnológica
-
 ### 🧠 Backend & Servidor
 
 <p>
@@ -35,7 +30,7 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
   <img src="https://img.shields.io/badge/Velocity-FF6B00?style=for-the-badge&logoColor=white"/>
 </p>
 
----
+
 
 ### 🗄️ Banco de Dados & Infraestrutura
 
@@ -45,7 +40,7 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
+
 
 ### 🌐 Web & Plataforma
 
@@ -56,7 +51,7 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
----
+
 
 ### 🤖 Bots & Integrações
 
@@ -64,7 +59,7 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
----
+
 
 ### 🎨 Design & Produto
 
@@ -72,7 +67,7 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
   <img src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
+
 
 ### 🔍 Performance & Monitoramento
 
@@ -80,7 +75,7 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
   <img src="https://img.shields.io/badge/VisualVM-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
----
+
 
 ## 🧠 Princípios
 
@@ -90,7 +85,7 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
 * Consistência visual e técnica
 * Escalabilidade desde o início
 
----
+
 
 ## 🏗️ Estrutura
 
@@ -104,19 +99,18 @@ design/         # Identidade visual
 infra/          # Infraestrutura e deploy
 ```
 
----
 
 ## 🌐 Domínio
 
 https://kayda.com.br
 
----
+
 
 ## 📌 Status
 
 > Em desenvolvimento ativo.
 
----
+
 
 ## 🛰️ Kayda Studios
 
