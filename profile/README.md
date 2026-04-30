@@ -6,19 +6,24 @@
 
 ## 🌌 Sobre
 
-A **Kayda Studios** é uma organização focada no desenvolvimento de experiências avançadas dentro do Minecraft, combinando engenharia de software, design e performance para construir um ecossistema escalável e consistente.
+A **Kayda Studios** é uma organização orientada por tecnologia focada na criação de experiências avançadas dentro do Minecraft. O projeto nasce com uma proposta clara: unir engenharia de software, design e performance para construir um ecossistema sólido, escalável e consistente.
 
-Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não apenas mais um servidor.
+Mais do que um servidor, a Kayda busca se posicionar como uma **plataforma completa**, onde cada sistema é pensado para evoluir, integrar e se manter relevante no longo prazo.
 
+Nosso objetivo é simples, mas ambicioso: criar algo que não seja apenas funcional, mas **memorável**.
 
 ## 🎮 Plataforma
 
+A Kayda Studios será construída sobre o Minecraft Java Edition, com foco inicial em um sistema de progressão estruturado e bem definido.
+
 * **Jogo:** Minecraft (Java Edition)
 * **Modo inicial:** Rankup
-* **Expansões:** Survival, Skyblock, Factions, Minigames
+* **Expansões planejadas:** Survival, Skyblock, Factions e Minigames
 
+Cada modo será desenvolvido com cuidado, priorizando consistência e integração entre sistemas, evitando a fragmentação comum em redes tradicionais.
 
 ## ⚙️ Stack Tecnológica
+
 ### 🧠 Backend & Servidor
 
 <p>
@@ -30,7 +35,7 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
   <img src="https://img.shields.io/badge/Velocity-FF6B00?style=for-the-badge&logoColor=white"/>
 </p>
 
-
+A base do servidor é construída sobre tecnologias de alto desempenho, com foco em estabilidade, baixa latência e capacidade de escala. Sistemas críticos serão customizados ou adaptados conforme necessário, garantindo controle total sobre a experiência.
 
 ### 🗄️ Banco de Dados & Infraestrutura
 
@@ -40,7 +45,7 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-
+A arquitetura de dados é pensada desde o início para suportar crescimento, com organização clara, performance consistente e facilidade de manutenção. A infraestrutura segue uma abordagem moderna, preparada para automação e escalabilidade.
 
 ### 🌐 Web & Plataforma
 
@@ -51,7 +56,7 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-
+A camada web será parte essencial do ecossistema, conectando jogador e servidor através de interfaces modernas, rápidas e bem estruturadas. A proposta é ir além de uma simples loja, criando uma experiência integrada.
 
 ### 🤖 Bots & Integrações
 
@@ -59,7 +64,7 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
-
+Integrações com comunidade são fundamentais. Sistemas automatizados via Discord permitirão comunicação, eventos e interação contínua com os jogadores.
 
 ### 🎨 Design & Produto
 
@@ -67,7 +72,7 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
   <img src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-
+Todo o design é planejado antes da implementação, garantindo consistência visual, clareza e uma identidade forte. A abordagem é minimalista, funcional e focada na experiência do usuário.
 
 ### 🔍 Performance & Monitoramento
 
@@ -75,43 +80,57 @@ Nosso foco é criar uma plataforma sólida, otimizada e diferenciada — não ap
   <img src="https://img.shields.io/badge/VisualVM-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-
+A performance não é tratada como ajuste final, mas como parte do desenvolvimento. Ferramentas de profiling são utilizadas continuamente para garantir eficiência e estabilidade.
 
 ## 🧠 Princípios
 
 * Performance acima de tudo
-* Simplicidade > complexidade
-* Arquitetura modular
-* Consistência visual e técnica
-* Escalabilidade desde o início
-
-
+* Simplicidade como base de decisão
+* Arquitetura modular e reutilizável
+* Consistência entre sistemas e interfaces
+* Escalabilidade planejada desde o início
 
 ## 🏗️ Estrutura
 
 ```bash
-.github/        # Perfil da organização
-core/           # Sistemas principais
-plugins/        # Plugins customizados / forks
-network/        # Configuração da rede
-web/            # Site, loja e integrações
-design/         # Identidade visual
-infra/          # Infraestrutura e deploy
+.github/        # Perfil da organização e configurações globais
+core/           # Sistemas principais e lógica compartilhada
+plugins/        # Plugins customizados e forks mantidos
+network/        # Configuração de rede e proxy
+web/            # Plataforma web, loja e integrações
+design/         # Identidade visual e assets
+infra/          # Infraestrutura, deploy e automações
 ```
 
+A organização é estruturada para manter separação clara de responsabilidades, facilitando manutenção, evolução e colaboração.
 
 ## 🌐 Domínio
 
 https://kayda.com.br
 
-
-
 ## 📌 Status
 
-> Em desenvolvimento ativo.
-
-
+Em desenvolvimento ativo, com foco na construção de uma base sólida antes da expansão.
 
 ## 🛰️ Kayda Studios
 
 Minimalista. Escalável. Diferente.
+
+## 🤝 Open Source
+
+A Kayda Studios também segue uma filosofia **open source** sempre que possível.
+
+Parte dos nossos sistemas, ferramentas e plugins poderão ser disponibilizados publicamente, permitindo que outros desenvolvedores estudem, utilizem e até contribuam com melhorias.
+
+Se você quiser:
+
+* Explorar o código
+* Sugerir melhorias
+* Corrigir problemas
+* Adaptar sistemas para seus próprios projetos
+
+Você é bem-vindo.
+
+Acreditamos que compartilhar conhecimento e soluções fortalece não só o projeto, mas toda a comunidade.
+
+Contribuições são analisadas com critério, sempre mantendo o padrão de qualidade, performance e consistência definidos pela Kayda Studios.
