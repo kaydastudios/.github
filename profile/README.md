@@ -1,7 +1,7 @@
 # 🚀 Kayda Studios
 
 <p align="center">
-  <strong>Explore Beyond Limits</strong>
+  <strong>Explore Beyond The Limits</strong>
 </p>
 
 ## 🌌 Sobre
